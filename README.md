@@ -1,4 +1,4 @@
-## This is youtube clone
+## This is a youtube clone
 
 Demo: https://chimerical-cannoli-fed006.netlify.app/
 
