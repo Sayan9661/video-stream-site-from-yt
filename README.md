@@ -9,4 +9,4 @@ This site is basically a youtube clone where you can search and play videos. It 
 HTML,CSS,Javascript,React JS, REST Api,Matierial UI.
 
 ### Demo Image of website
-![a picture of what the website would look like](https://github.com/Sayan9661/video-stream-site-from yt/blob/main/ytStream.jpg?raw=true)
+![a picture of what the website would look like](https://github.com/Sayan9661/video-stream-site-from-yt/blob/main/ytStream.jpg?raw=true)
